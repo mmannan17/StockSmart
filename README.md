@@ -31,7 +31,6 @@ Usage
 Start the Application: Launch the application through Visual Studio or the executable file.
 Load Data: Import your CSV files containing stock market data via the application's user interface.
 Analyze and View Results: Select the type of analysis you wish to perform. Results will be displayed through the built-in data visualization tools.
-Contributing
 Contributions to StockSmart are welcomed. If you have ideas for improvements or have found a bug, please follow these steps to contribute:
 
 ### Fork the Project
