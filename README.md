@@ -4,7 +4,7 @@
 **StockSmart** is a sophisticated tool designed to empower traders and analysts by providing advanced data visualization and pattern recognition capabilities. It identifies key market trends and patterns, enhancing decision-making in the fast-paced financial markets.
 
 ## Features
-- **Advanced Data Visualization**: Utilizes cutting-edge visualization technologies to represent complex market data clearly and effectively.
+- **Data Visualization**: Utilizes visualization technologies to represent market data clearly and effectively.
 - **Pattern Recognition**: Capable of recognizing and analyzing market trends and specific trading patterns such as Doji, Marubozu, and more.
 - **C# File Handling**: Efficiently extracts data from CSV files, ensuring high accuracy and speed in data handling.
 - **Object-Oriented Programming (OOP)**: Employs a modular code architecture with data encapsulated in classes, significantly improving code maintainability and scalability.
